@@ -14,7 +14,5 @@ def select_winner(passengers)
     elsif value.include? == "a"
       return value
     end
-
-
   end
 end
